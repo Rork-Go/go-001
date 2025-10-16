@@ -12,4 +12,7 @@ func main() {
 	var e int = 20
 	var f int = d * e
 	fmt.Println(f)
+	fmt.Println(d + e)
+
+
 }
