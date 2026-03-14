@@ -15,4 +15,8 @@ func main() {
 	fmt.Println(d + e)
 
 
+	v := 100
+	fmt.Println(v)
+
+
 }
